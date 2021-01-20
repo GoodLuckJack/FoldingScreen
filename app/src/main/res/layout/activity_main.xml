@@ -31,4 +31,11 @@
         android:layout_marginTop="50dp"
         android:text="设置屏幕长宽比例"/>
 
+    <Button
+        android:id="@+id/btn_adaptive_layout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="50dp"
+        android:text="自适应动态布局"/>
+
 </LinearLayout>
